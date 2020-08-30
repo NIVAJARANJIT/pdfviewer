@@ -1,4 +1,4 @@
-const url = '../docs/pdf.pdf';
+const url = 'http://africau.edu/images/default/sample.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
